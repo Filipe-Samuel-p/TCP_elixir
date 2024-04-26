@@ -1,3 +1,8 @@
+# Arquivo que define configurações do projeto e dependencias
+
+
+
+
 defmodule Forca.MixProject do
   use Mix.Project
 
